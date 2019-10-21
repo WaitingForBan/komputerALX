@@ -9,4 +9,5 @@ print(arr[3])
 print(s[0:16:2]) #od 0 do 16 co drugie
 print(s[::3]) #wszystkie stringi co 3-ci
 
-print(s[::-1])
+print(s[::-1]) #revers napisy
+

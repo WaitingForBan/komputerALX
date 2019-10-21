@@ -26,3 +26,6 @@ print("czy liczba: ", s.isdecimal())
 print("4 litera: ", s[3])
 print("przed ostatnia litera: ", s[-2])
 print("litery pomiedzy: ", s[0:8])
+
+s = "hello!"
+print(s[0:4])

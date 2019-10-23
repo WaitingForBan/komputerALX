@@ -11,3 +11,16 @@ print(s[::3]) #wszystkie stringi co 3-ci
 
 print(s[::-1]) #revers napisy
 
+
+print("hello" + " world!")
+
+a = "cokolwiek"
+b = "napiszę"
+print(f"{a} {b}")
+print(f"{a} {b}")
+
+x = input("podaj watość x")
+print(x, type(x))
+
+
+
